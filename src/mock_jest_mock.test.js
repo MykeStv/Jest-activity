@@ -1,5 +1,5 @@
-import * as app from '../src/App'
-import * as math from '../src/Math'
+import * as app from './App'
+import * as math from './Math'
 
 //Set all module functions to jest.fn
 //So this allows write all the cloning functions

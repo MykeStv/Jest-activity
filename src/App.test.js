@@ -1,5 +1,5 @@
-import * as app from '../src/App'
-import * as math from '../src/Math'
+import * as app from './App'
+import * as math from './Math'
 
 math.add = jest.fn()
 math.subtract = jest.fn()
