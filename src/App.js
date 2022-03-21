@@ -1,4 +1,4 @@
-import './App.css';
+
 import * as math from './Math' //imports all of Math
 
 
